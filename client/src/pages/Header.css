@@ -1,0 +1,7 @@
+.flex {
+    display: inline-flex;
+}
+
+.flex * {
+    margin-left: 12px;
+}
